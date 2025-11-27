@@ -2,9 +2,9 @@
 
 > Need a scheduler? I got you covered, in Python! 📅
 
-![PyPI - Version](https://img.shields.io/pypi/v/flux-sched)
+[![PyPI - Version](https://img.shields.io/pypi/v/flux-sched)](https://pypi.org/project/flux-sched/)
 
-![img/flux-sched-py-white-small.png](img/flux-sched-py-white-small.png)
+![img/flux-sched-py-white-small.png](https://github.com/converged-computing/flux-sched-py/blob/main/img/flux-sched-py-white-small.png?raw=true)
 
 Python bindings for the **Flux Framework** scheduler (`flux-sched` or `fluxion`). These bindings provide a high-performance interface to Flux's graph-based resource model, allowing users to simulate scheduling decisions offline or interact with a live Flux instance.
 
