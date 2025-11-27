@@ -1,0 +1,6 @@
+*.cpp
+__pycache__
+*.so
+build
+dist
+flux_sched.egg-info
